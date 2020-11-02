@@ -216,3 +216,82 @@ ul li:hover {
     color:goldenrod;
 }
 
+.footer{
+    width: 100%;
+    height:700px;
+    background-image: url('Imgs/footer-bg.jpg');
+    background-size: cover;
+}
+
+.footer h3{
+    padding: 0 15% 0 2%;
+    font-size: 18px;
+    font-weight: 550;
+    margin-block-start: 0;
+}
+.footer h2{
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 20;
+    font-size: 28px;
+    margin-block-start: 0;
+}
+.f_div{
+    
+    float: left;
+    font-stretch: normal;
+    line-height: 2;
+    height: 400px;
+    color: dimgray;
+    padding: 0 6% 0 2%;
+    
+    font-family: 'Advent Pro', sans-serif;
+    
+}
+
+.footer a{
+    text-decoration: none;
+    color: grey;
+}
+.f_icons{
+    margin-top: 50%; 
+    margin-block-end: 0;   
+}
+.f2_icon{
+    
+    width: 40px;
+}
+ 
+ul1{
+    list-style-type: none;
+    font-size:18px ;
+    font-weight: 550;
+}
+
+ul1 li:hover a{
+    color: goldenrod;
+}
+
+.table_info{
+    float: left;
+    width: 40%;
+    height: 30px;
+    margin-right: 15px;
+    
+    border: none;
+    border-bottom: 2px solid gray;
+    background: none;
+    margin-top: 2%;
+    padding: 5px ;
+    
+}
+.btn{
+    width: 130px;
+    height: 40px;
+    margin-top: 5%;
+    background-color: goldenrod;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+
