@@ -295,3 +295,113 @@ ul1 li:hover a{
     font-size: 15px;
 }
 
+/*----------------------------------------------------------------------
+                 About Us
+---------------------------------------------------------------------*/
+
+.Addbox{
+    width: 100%;
+    height: 180px;
+    background-image: url('Imgs/1.jpg');
+    font-family: 'Advent Pro', sans-serif;
+    overflow: hidden;
+    text-align: center;
+    padding-top:2% ;
+    color: white;
+    font-style: oblique;
+    font-size: 35px;
+    
+}
+
+.mainbox{
+    width: 100%;
+    height:1050px;
+
+}
+
+#img1{
+    margin: 5% 0 0 7%;
+    float: left;
+}
+
+#img2{
+    margin: 5% 6% 0 0;
+    float: right;
+}
+.mainbox h2{
+    font-family:  'Advent Pro', sans-serif;
+    font-size: 55px;
+    font-stretch: expanded;
+    font-weight: 20;
+}
+
+.mainbox h4{
+    font-family:  'Advent Pro', sans-serif;
+    font-size: 20px;
+    color: #7e7e7e;
+    line-height: 1.8;
+
+    font-stretch: expanded;
+    font-weight: 20;
+}
+
+#text1{
+    padding: 12% 0 0 53% ;
+
+}
+
+#text2{
+    float: left;
+    margin: 6% 0 0 8%;  
+  
+}
+#sub1{
+    padding: 0 5% 0 53%;
+}
+
+#sub2{
+    float: left;
+    margin:2% 0 0 8%;
+}
+
+.mainbox2{
+    width: 100%;
+    height: 700px;
+    
+}
+.left_box{
+    width: 40%;
+    height: 600px;
+    background-image: url('Imgs/Open_salon.jpg');
+    background-size: cover;
+    margin-left: 7%;
+    float: left;
+
+}
+
+.right_box{
+    float: left;
+    width: 40%;
+    margin: 7% 2% 0 4%;
+    height: 500px;
+    background-color: #f6f6f6;
+}
+
+.right_box h2{
+    font-family:  'Advent Pro', sans-serif;
+    font-size: 55px;
+    font-stretch: expanded;
+    font-weight: 20;
+    margin-top: 0;
+}
+
+.right_box h3{
+    font-family:  'Advent Pro', sans-serif;
+    font-size: 20px;
+    font-stretch: expanded;
+    font-weight: 20;
+    margin-left: 8%;
+}
+.right_image{
+    margin: 0 0 0 8%;
+}
